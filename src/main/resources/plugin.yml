@@ -1,0 +1,4 @@
+name: openlistener
+main: club.batowen.listener.bukkit.ListenerMain
+version: 0.1
+author: owennet

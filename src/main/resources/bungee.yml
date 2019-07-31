@@ -1,0 +1,4 @@
+name: openlistener
+main: club.batowen.listener.bungeecord.ListenerMain
+version: 0.1
+author: owennet

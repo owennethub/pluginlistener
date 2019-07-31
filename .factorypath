@@ -1,0 +1,7 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/redis/clients/jedis/3.1.0/jedis-3.1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/commons/commons-pool2/2.6.2/commons-pool2-2.6.2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/club/batowen/bungeecord/1.0/bungeecord-1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/club/batowen/spigotzao/1.0/spigotzao-1.0.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
